@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. ReadingRadiusPrintingPerimeterCircle", "2. ReadingRadiusPrintingPerimeterCircle\2. ReadingRadiusPrintingPerimeterCircle.csproj", "{3F97B4E1-21FB-49BF-9904-EF4517531DE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. CompanyInformation", "3. CompanyInformation\3. CompanyInformation.csproj", "{C03EAE96-DA3F-4D9B-9D50-B11AFA14A96D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. ReadingIntegers", "1. ReadingIntegerss\1. ReadingIntegers.csproj", "{601B928D-F2F8-4D13-B5E1-853FE459584F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F97B4E1-21FB-49BF-9904-EF4517531DE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F97B4E1-21FB-49BF-9904-EF4517531DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F97B4E1-21FB-49BF-9904-EF4517531DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F97B4E1-21FB-49BF-9904-EF4517531DE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C03EAE96-DA3F-4D9B-9D50-B11AFA14A96D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C03EAE96-DA3F-4D9B-9D50-B11AFA14A96D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C03EAE96-DA3F-4D9B-9D50-B11AFA14A96D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C03EAE96-DA3F-4D9B-9D50-B11AFA14A96D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{601B928D-F2F8-4D13-B5E1-853FE459584F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601B928D-F2F8-4D13-B5E1-853FE459584F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601B928D-F2F8-4D13-B5E1-853FE459584F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601B928D-F2F8-4D13-B5E1-853FE459584F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

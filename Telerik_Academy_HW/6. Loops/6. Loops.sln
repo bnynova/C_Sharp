@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. NumbersOneToN", "6. Loops\1. NumbersOneToN.csproj", "{840E71A0-2EDD-4F5D-8B5C-297A380518F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. MinimalMaximalOfSequanceIntegers", "3. MinimalMaximalOfSequanceIntegers\3. MinimalMaximalOfSequanceIntegers.csproj", "{82D0555E-8384-4033-88B9-0B06CCC4898B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. CalculateFactorial", "4. CalculateFactorial\4. CalculateFactorial.csproj", "{F755F1E9-E64D-42BC-B8AD-6C172E5A04E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. NumbersNotDivisibleThreeSeven", "2. NumbersNotDivisible SevenAndFive\2. NumbersNotDivisibleThreeSeven.csproj", "{8533D7BA-AF1C-4329-9290-43F82009DE62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. GCDTwoNumbersEuclideanAlgorithm", "8. GCDTwoNumbersEuclideanAlgorithm\8. GCDTwoNumbersEuclideanAlgorithm.csproj", "{F4C53A92-915E-4779-B77C-6EBC886E9E48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{840E71A0-2EDD-4F5D-8B5C-297A380518F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840E71A0-2EDD-4F5D-8B5C-297A380518F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840E71A0-2EDD-4F5D-8B5C-297A380518F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840E71A0-2EDD-4F5D-8B5C-297A380518F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82D0555E-8384-4033-88B9-0B06CCC4898B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D0555E-8384-4033-88B9-0B06CCC4898B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D0555E-8384-4033-88B9-0B06CCC4898B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D0555E-8384-4033-88B9-0B06CCC4898B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F755F1E9-E64D-42BC-B8AD-6C172E5A04E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F755F1E9-E64D-42BC-B8AD-6C172E5A04E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F755F1E9-E64D-42BC-B8AD-6C172E5A04E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F755F1E9-E64D-42BC-B8AD-6C172E5A04E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8533D7BA-AF1C-4329-9290-43F82009DE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8533D7BA-AF1C-4329-9290-43F82009DE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8533D7BA-AF1C-4329-9290-43F82009DE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8533D7BA-AF1C-4329-9290-43F82009DE62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4C53A92-915E-4779-B77C-6EBC886E9E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4C53A92-915E-4779-B77C-6EBC886E9E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4C53A92-915E-4779-B77C-6EBC886E9E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4C53A92-915E-4779-B77C-6EBC886E9E48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
